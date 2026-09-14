@@ -18,7 +18,7 @@ String cardUID = "";
 String student1UID = "AB8A6D05";
 String student2UID = "12345678";
 
-String student1Name = "Hemanth";
+String student1Name = "Arun Roshan";
 String student2Name = "Arun";
 
 //-------------------------------------------------
